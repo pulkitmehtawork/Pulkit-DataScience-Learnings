@@ -1,1 +1,6 @@
+Linear Algebra :
+Resources - 3 Blue1Brown playlist - Gives great intuition
+
+1. Dot product of vector v and vector w - You take projection of one vector on top of another and then multiply length of that projection by length of another vector . Order doesn't matter . If dot product is greater then 0 , means vectors were in the same direction . If it is negative , it means vectors were in opposite direction. If they are orthogonal or perpendicular then projection length of a vector onto another vector is going to be zero.
+
 
