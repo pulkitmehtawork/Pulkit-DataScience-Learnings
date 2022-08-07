@@ -1,0 +1,3 @@
+Some cool resources:
+1. madewithml.com from Goku 
+2. Designing ML systems book by Chip.
