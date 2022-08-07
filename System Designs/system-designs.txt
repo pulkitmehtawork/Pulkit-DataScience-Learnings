@@ -1,0 +1,9 @@
+System design is very interesting and important topic . 
+You will be invariably asked to build ML powered or some system in all big companies . 
+
+Cool resources:
+You tube playlist of Gaurav Sain . He explains concept in witty way . He also solves doubts of folks in the comments . 
+
+1. Database sharding - It is like we are dividing data into different ranges and persisting at different locations/servers.
+It makes our queries faster but think what will happen when we have to query data scross shards .. shards data will join , there will be 
+communication across shards and thats gonna be expensive . 
