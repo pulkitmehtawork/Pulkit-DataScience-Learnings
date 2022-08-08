@@ -1,0 +1,6 @@
+from wiki :
+1. Stealth Mode:
+In business, stealth mode is a company's temporary state of secretiveness, usually undertaken to avoid alerting competitors to a pending product 
+launch or another business initiative. When an entire company is in stealth mode it may attempt to mislead the public about its true company goals.
+
+
