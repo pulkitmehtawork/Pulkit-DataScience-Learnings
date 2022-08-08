@@ -5,3 +5,7 @@ r2. Designing ML systems book by Chip.
 
 #### Model deployment ####
 Some of the biggest challenge is to serve millions of users with milli seconds latency and 99.9% availability . 
+1. There are 2 parts of model which we serialize or export which can be used by other applications - 
+1.1 its definition , 1.2 - its parameters . In tensorflow , we save the model by tf.keras.Model.save() and in pytorch - torch.onxx.export() .
+
+
