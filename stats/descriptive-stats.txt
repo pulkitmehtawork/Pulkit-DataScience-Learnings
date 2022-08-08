@@ -12,5 +12,14 @@ a specific group , 1.3 - all samples should be independent of each other .
 just have 2 variables as it is difficult to understand . 
 
 4. Difference between Histogram and barchart  - Histograms are for quantitative data while bar chart is for categorical data .
+Historgram - we split data into buckets or bins of equal size . They are exclusive and do not overlap . 
+Seclecting number of bins is experimental . 
+Skewness in histogram - Right or left skewed depending on tail is thinnest at what side of the graph .
+Uniform - number of observations in each bin is same . 
+symmetric - left and right side is mirror image . 
+bimodal - there are 2 peaks like humps of camel . 
+
+
+
 
 
