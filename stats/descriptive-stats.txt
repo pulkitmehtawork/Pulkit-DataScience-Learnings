@@ -1,1 +1,16 @@
+Cool resources and references:
+https://www.youtube.com/c/BrandonFoltz - Go through all the playlists to get a solid understanding of the stats fundamentals .
+
+1.  population and sample - In practice , most of the times we are working with sample of the data .
+Samplings - dos and donts -  1.1 - Sample should be representative of the population , 1.2. should be a random sample , not from 
+a specific group , 1.3 - all samples should be independent of each other . 
+
+
+2.Descriptive stats - summarizes characteristics of the data .
+
+3. How to show categorical data - Bar charts of frequency , bar chart of relative ferquency is a good idea . Do not go for Pie chart unless you
+just have 2 variables as it is difficult to understand . 
+
+4. Difference between Histogram and barchart  - Histograms are for quantitative data while bar chart is for categorical data .
+
 
