@@ -3,4 +3,5 @@ Resources - 3 Blue1Brown playlist - Gives great intuition
 
 1. Dot product of vector v and vector w - You take projection of one vector on top of another and then multiply length of that projection by length of another vector . Order doesn't matter . If dot product is greater then 0 , means vectors were in the same direction . If it is negative , it means vectors were in opposite direction. If they are orthogonal or perpendicular then projection length of a vector onto another vector is going to be zero.
 
-
+2. Cross product of 2 vectors is a vector whose magnitude is area of the paralleogram or rectangle ( need to imagine
+ vectors in parallel to the vectors) . Its direction is perpendicular to the paralleogram .. can use right hand rule , index finger in direction of first vector , middle finger in direction of second vector and thumb in direction of cross product vector . 
