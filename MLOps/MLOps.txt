@@ -1,3 +1,7 @@
 Some cool resources:
-1. madewithml.com from Goku 
-2. Designing ML systems book by Chip.
+r1. madewithml.com from Goku 
+r2. Designing ML systems book by Chip.
+
+
+#### Model deployment ####
+Some of the biggest challenge is to serve millions of users with milli seconds latency and 99.9% availability . 
