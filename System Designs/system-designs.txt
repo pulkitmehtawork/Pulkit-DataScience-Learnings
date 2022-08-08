@@ -1,5 +1,9 @@
 System design is very interesting and important topic . 
 You will be invariably asked to build ML powered or some system in all big companies . 
+It shows your problem solving skills , architecture knowledge and communication skills . 
+Some interviews focus on high level design while focus on details of a particular area of the system .
+Requirements , bottlenecks should be understood well . 
+
 
 Cool resources:
 You tube playlist of Gaurav Sain . He explains concept in witty way . He also solves doubts of folks in the comments . 
@@ -7,3 +11,5 @@ You tube playlist of Gaurav Sain . He explains concept in witty way . He also so
 1. Database sharding - It is like we are dividing data into different ranges and persisting at different locations/servers.
 It makes our queries faster but think what will happen when we have to query data scross shards .. shards data will join , there will be 
 communication across shards and thats gonna be expensive . 
+
+2. 
