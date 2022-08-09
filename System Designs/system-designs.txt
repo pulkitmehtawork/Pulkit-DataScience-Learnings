@@ -12,4 +12,8 @@ You tube playlist of Gaurav Sain . He explains concept in witty way . He also so
 It makes our queries faster but think what will happen when we have to query data scross shards .. shards data will join , there will be 
 communication across shards and thats gonna be expensive . 
 
-2. 
+2. SQL vs No SQL . If your data is unstructuted , you have massive amount of data and need super low latency then go with No- SQL databases .
+
+3. Vertical scaling vs horizontal scaling - Vertical scaling or scaling up is adding more power to your existing servers while horizonal scaling 
+or scaling out is adding more servers to your pool . Disadvantages of vertical scaling is that it has a hard limit , no failover and redundancy mechanism.
+For large scale application , horizontal scaling is recommended . 
