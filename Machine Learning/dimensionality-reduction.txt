@@ -1,0 +1,6 @@
+Reference - Hands on Machine learning with Scikit learn and keras
+
+1. Dimensionaility reduction - Lots of features can slow training and can make finding good solution very hard . Dimensionailty reduction 
+will speed up training , may help in data vizualiation and sometimes may remove noise , unnecessary info and may have performance improvement .
+Its drawbacks are information loss , may make pipeline complex .
+
