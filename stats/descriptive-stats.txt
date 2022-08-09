@@ -19,6 +19,12 @@ Uniform - number of observations in each bin is same .
 symmetric - left and right side is mirror image . 
 bimodal - there are 2 peaks like humps of camel . 
 
+5. Stem and leaf - This is one more way to express quantitative data . Stem is at the left and leaf is at the right . 
+Leaf is the last digit . It shows shape of the data distribution , it shows modality and rank of order of data . 
+It is kind of sideway histogram but it shows elements with highest frequency easily unlike in histogram . 
+
+
+
 
 
 
