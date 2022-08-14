@@ -9,3 +9,6 @@ You can write pandas dataframe to feather file using its **to_feather** . It can
 There is great notebook written by Grandmaster Rohan on the same topic .. Worth a read ..
 https://www.kaggle.com/code/rohanrao/tutorial-on-reading-large-datasets/notebook
 
+2. In Kaggle and in real world modelling , it is must that we do well on unseen data or our model generalizes well . We should not overfit on public 
+leaderboard . We should have a good cross validation strategy and trust on that . 
+
