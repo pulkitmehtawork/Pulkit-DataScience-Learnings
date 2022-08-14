@@ -6,3 +6,6 @@ competitons . Here , I am going to list key ideas I get while going through the 
 In such cases , you may change the data format to feather format and read the feather file . 
 Also , check max size of each column and downcast data type . It will help reduce memory footprint . 
 You can write pandas dataframe to feather file using its **to_feather** . It can be load in memory using **read_feather** .
+There is great notebook written by Grandmaster Rohan on the same topic .. Worth a read ..
+https://www.kaggle.com/code/rohanrao/tutorial-on-reading-large-datasets/notebook
+
