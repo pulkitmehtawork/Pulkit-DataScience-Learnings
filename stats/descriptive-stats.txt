@@ -23,6 +23,9 @@ bimodal - there are 2 peaks like humps of camel .
 Leaf is the last digit . It shows shape of the data distribution , it shows modality and rank of order of data . 
 It is kind of sideway histogram but it shows elements with highest frequency easily unlike in histogram . 
 
+6. Cross Tab - Used to describe 2 variables at the same time . Can use pivot to create cell , row level, col level aggregates , may do conditional 
+formatting of data e.g. color coding based on the values.
+
 
 
 
