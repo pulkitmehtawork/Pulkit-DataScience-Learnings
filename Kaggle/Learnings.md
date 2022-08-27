@@ -12,3 +12,5 @@ https://www.kaggle.com/code/rohanrao/tutorial-on-reading-large-datasets/notebook
 2. In Kaggle and in real world modelling , it is must that we do well on unseen data or our model generalizes well . We should not overfit on public 
 leaderboard . We should have a good cross validation strategy and trust on that . 
 
+3. Feature Enginerring ideas -  Say you have product code or similar feature. You may group based on product code and derive many aggregate features.
+
