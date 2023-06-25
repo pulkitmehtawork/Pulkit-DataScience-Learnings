@@ -17,3 +17,6 @@ communication across shards and thats gonna be expensive .
 3. Vertical scaling vs horizontal scaling - Vertical scaling or scaling up is adding more power to your existing servers while horizonal scaling 
 or scaling out is adding more servers to your pool . Disadvantages of vertical scaling is that it has a hard limit , no failover and redundancy mechanism.
 For large scale application , horizontal scaling is recommended . 
+
+4. Webhooks - lets take an example of e-commerce company . When user orders something , it goes through API gateway and then there is order service which will interact with payment service(external- say stripe) .. there are 2 ways our service can get response from payment external service .. one is via poilling where we will keep asking whether payment is done or not .. another way is we will give it a webhook or an end point and ask to call that once payment is done . 
+
